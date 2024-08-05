@@ -1,0 +1,71 @@
+{
+    "microphone": 1,
+    "voice": 2,
+    "interval": 0.001,
+    "arg_indicator": "$",
+    "alias": [
+        "jarvis",
+        "jargo",
+        "jarves",
+        "jarvello",
+        "jarvishvili",
+        "jarvashvili",
+        "chavez"
+    ],
+    "tbr": [
+        "say",
+        "tell",
+        "please",
+        "can you"
+    ],
+    "cmds": {
+        "ctime": [
+            "about time",
+            "time now",
+            "what time is it"
+        ],
+        "weather": [
+            "what is the weather in $place",
+            "what's the weather in $place",
+            "weather in $place"
+        ],
+        "password": [
+            "generate a random password",
+            "generate a random password of length $length"
+        ],
+        "addition": [
+            "add $n1 to $n2",
+            "summarize $n1 and $n2",
+            "$n1 plus $n2"
+        ],
+        "subtraction": [
+            "subtract $n1 from $n2",
+            "$n1 minus $n2"
+        ],
+        "multiplication": [
+            "multiply $n1 $n2 times",
+            "multiply $n1 to $n2",
+            "$n1 $n2 times",
+            "$n1 to $n2"
+        ],
+        "division": [
+            "divide $n1 to $n2",
+            "$n1 over $n2"
+        ],
+        "stupid1": [
+            "joke",
+            "make me laugh",
+            "tell me a joke",
+            "tell me an anecdote"
+        ]
+    },
+    "jokes": [
+        
+    ],
+    "op": {
+        "addition": "+",
+        "subtraction": "-",
+        "division": "/",
+        "multiplication": "*"
+    }
+}
